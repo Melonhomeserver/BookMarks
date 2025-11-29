@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :38: for Floccus bookmark sync browser extension -->
+
+<bookmark href="https://mail.proton.me/u/0/inbox" id="1">
+  <title>Protonmail</title>
+</bookmark>
+<bookmark href="https://studenti.unifi.it/auth/studente/HomePageStudente.do;jsessionid=99989B63F4817050F86833031B50CC50.esse3-unifi-prod-05" id="2">
+  <title>UNIFI - GCS</title>
+</bookmark>
+<folder id="3">
+  <title>Linneaus University</title>
+  <bookmark href="https://lnu.se/en/student/My-page/" id="13">
+    <title>Studentweb</title>
+  </bookmark>
+  <bookmark href="https://www.student.ladok.se/student/app/studentwebb/start" id="14">
+    <title>Ladok</title>
+  </bookmark>
+  <bookmark href="https://www.universityadmissions.se/intl/start" id="15">
+    <title>UniversityAdmission</title>
+  </bookmark>
+  <bookmark href="https://moodle.lnu.se/my/" id="16">
+    <title>Moodle</title>
+  </bookmark>
+  <bookmark href="https://gitlab.lnu.se/" id="17">
+    <title>GitLab DSA</title>
+  </bookmark>
+  <bookmark href="https://lnukortet.lnu.se/" id="18">
+    <title>Swipecard</title>
+  </bookmark>
+  <bookmark href="https://gslg-lnu.primo.exlibrisgroup.com/discovery/account?vid=46GSLG_VAXJO:primo_custom_lnu&amp;section=overview&amp;lang=sv" id="19">
+    <title>Library Account</title>
+  </bookmark>
+  <bookmark href="https://cloud.timeedit.net/lnu/web/stud1/" id="20">
+    <title>Room booking</title>
+  </bookmark>
+  <bookmark href="https://prn.lnu.se/" id="21">
+    <title>PaperCut MF</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www1.directatrading.com/" id="4">
+  <title>Directa</title>
+</bookmark>
+<bookmark href="https://www.crowdcube.com/account/portfolio" id="5">
+  <title>CC</title>
+</bookmark>
+<bookmark href="https://avistaz.to/" id="6">
+  <title>AvistaZ</title>
+</bookmark>
+<bookmark href="https://www.linkedin.com/in/meloncrush/" id="7">
+  <title>Linkedin</title>
+</bookmark>
+<bookmark href="https://app.thestorygraph.com/" id="8">
+  <title>StoryGraph</title>
+</bookmark>
+<bookmark href="https://github.com/meloncruuush?tab=repositories" id="9">
+  <title>Github</title>
+</bookmark>
+<bookmark href="https://wiki.archlinux.org/" id="10">
+  <title>ArchWiki</title>
+</bookmark>
+<bookmark href="https://homarr.melonserver.org/" id="11">
+  <title>Server</title>
+</bookmark>
+<folder id="12">
+  <title>Sweden</title>
+  <bookmark href="https://minasidor.vidingehem.se/mypages/home" id="22">
+    <title>Vidingehem - Mina sidor</title>
+  </bookmark>
+  <bookmark href="https://www.csn.se/" id="23">
+    <title>CSN</title>
+  </bookmark>
+  <bookmark href="https://www.akavia.se/medlemskapet/medlemsformaner/student/" id="24">
+    <title>Akavia students</title>
+  </bookmark>
+  <bookmark href="https://lnu.jobteaser.com/en/my-profile" id="25">
+    <title>Career Portal</title>
+  </bookmark>
+  <bookmark href="https://www.ratsit.se/foretag" id="26">
+    <title>Ratsit</title>
+  </bookmark>
+  <bookmark href="https://minasidor.if.se/startsida/min-profil/" id="27">
+    <title>If | Home Insurance</title>
+  </bookmark>
+  <bookmark href="https://www.forsakringskassan.se/english" id="28">
+    <title>Försäkringskassan</title>
+  </bookmark>
+  <bookmark href="https://erikshjalpen.se/en/give-your-time/volunteer-at-erikshjalpen-second-hand/" id="29">
+    <title>Become a Volunteer at Erikshjälpen Second Hand - Erikshjälpen</title>
+  </bookmark>
+  <bookmark href="https://arbetsformedlingen.se/" id="30">
+    <title>Arbetsförmedlingen.se</title>
+  </bookmark>
+</folder>
+<bookmark href="https://adventofcode.com/" id="31">
+  <title>AoC 2025</title>
+</bookmark>
+<folder id="32">
+  <title>SFi</title>
+  <bookmark href="https://studier.nti.se/studentcourses" id="34">
+    <title>NTi - SFi</title>
+  </bookmark>
+  <bookmark href="https://minbokhylla.studentlitteratur.se/0" id="35">
+    <title>Studentlitteratur</title>
+  </bookmark>
+  <bookmark href="https://www.deepl.com/en/translator" id="36">
+    <title>DeepL</title>
+  </bookmark>
+  <bookmark href="https://dictionary.cambridge.org/dictionary/swedish-english/" id="37">
+    <title>Swedish dictionary</title>
+  </bookmark>
+</folder>
+<folder id="33">
+  <title>Cyberchallenge Stockholm</title>
+  <bookmark href="https://forsvarshogskolan.sharepoint.com/sites/CyberChallenge?e=1%3A63955a9ea5e24c949126447525e88d67" id="38">
+    <title>Cyber Challenge - Home</title>
+  </bookmark>
+</folder>
+</xbel>
