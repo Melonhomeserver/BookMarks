@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :38: for Floccus bookmark sync browser extension -->
+<!--- highestId :39: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://mail.proton.me/u/0/inbox" id="1">
   <title>Protonmail</title>
@@ -117,4 +117,7 @@
     <title>Cyber Challenge - Home</title>
   </bookmark>
 </folder>
+<bookmark href="https://anilist.co/settings/account" id="39">
+  <title>Account Settings · AniList</title>
+</bookmark>
 </xbel>
