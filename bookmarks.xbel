@@ -48,6 +48,9 @@
 <bookmark href="https://avistaz.to/" id="6">
   <title>AvistaZ</title>
 </bookmark>
+<bookmark href="https://homarr.melonserver.se/" id="40">
+  <title>Server</title>
+</bookmark>
 <bookmark href="https://www.linkedin.com/in/meloncrush/" id="7">
   <title>Linkedin</title>
 </bookmark>
@@ -116,8 +119,5 @@
 </folder>
 <bookmark href="https://anilist.co/settings/account" id="39">
   <title>Delete AnimeList</title>
-</bookmark>
-<bookmark href="https://homarr.melonserver.se/" id="40">
-  <title>Server</title>
 </bookmark>
 </xbel>
